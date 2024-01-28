@@ -1,9 +1,5 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import './App.css';
-import Target from './Target';
-import { motion } from 'framer-motion';
+
 import Introduction from './components/Introduction';
 import Techstacks from './components/Techstacks';
 import MyProjects from './components/projects/MyProjects';
